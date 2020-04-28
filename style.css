@@ -1,0 +1,30 @@
+h1{
+color:black;
+}
+.header{
+background-color: cornsilk;
+display:flex;
+justify-content:space-around;
+}
+.menu{
+margin-right: 100px;
+}
+.menu a {
+margin-left: 20px;
+}
+a:link{
+color:black;
+}
+a:visited{
+color: rosybrown;
+}
+body{
+background-color:cornsilk;
+}
+p,h2{
+text-size-adjust: center;
+color: black;
+}
+.img{
+justify-content: center;
+}
